@@ -416,7 +416,7 @@ border-bottom: var(--main-color) solid 80px ;
 @media (max-width: 767px) {
     .contact .info .label,
     .contact .info .link {
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 /* End Contact */
