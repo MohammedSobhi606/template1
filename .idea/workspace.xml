@@ -24,18 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MohammedSobhi606"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;MohammedSobhi606&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;MohammedSobhi606&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MohammedSobhi606/template1.git",
-    "accountId": "9d3a3d95-0ab0-4d69-9e02-0a3931ec10fe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MohammedSobhi606/template1.git&quot;,
+    &quot;accountId&quot;: &quot;9d3a3d95-0ab0-4d69-9e02-0a3931ec10fe&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -49,6 +53,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/react apps/kasperTemplate",
@@ -91,7 +96,8 @@
       <workItem from="1732973455442" duration="327000" />
       <workItem from="1733062485901" duration="3035000" />
       <workItem from="1733240624827" duration="4956000" />
-      <workItem from="1733309085362" duration="7747000" />
+      <workItem from="1733309085362" duration="8284000" />
+      <workItem from="1733325850971" duration="315000" />
     </task>
     <task id="LOCAL؜-٠٠٠٠١" summary="first template (html ,css)">
       <option name="closed" value="true" />
@@ -125,7 +131,15 @@
       <option name="project" value="LOCAL؜" />
       <updated>1733322321307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL؜-٠٠٠٠٥" summary="first template (html ,css)">
+      <option name="closed" value="true" />
+      <created>1733323037108</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1733323037108</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
