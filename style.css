@@ -42,6 +42,8 @@ a {
 @media (min-width: 768px) {
     .container {
         width: 750px;
+        padding-left: 6px;
+        padding-right: 6px;
     }
 }
 /* Medium */
@@ -85,7 +87,7 @@ h1{
     font-size: 20px;
     text-align: center;
     color: #797979;}
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .special-heading {
         font-size: 60px;
     }
@@ -126,6 +128,7 @@ header .container .links:hover ul{
     display: block;
     transition: .3s;
 }
+/*arrow*/
 header .container .links ul::before{
     content: "";
     border-color: transparent transparent aquamarine transparent  ;
@@ -150,6 +153,10 @@ header .container .links ul a:hover{
 }
 header .container .links ul li:not(:last-child){
     border-bottom: #19c8fa 2px solid;
+}
+header .container .links i{
+    display: inline-block;
+font-size: xx-large;
 }
 /* End header*/
 /*landing */
