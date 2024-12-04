@@ -121,7 +121,7 @@ header .container .links ul{
     min-width: 200px;
     top: calc(100% + 15px);
     transition: .3s;
-display: none;
+    display: none;
     color: gray;
 }
 header .container .links:hover ul{
